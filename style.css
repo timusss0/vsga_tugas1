@@ -1,0 +1,8 @@
+.navbar a,ul,li{
+    color: black;
+}
+
+.navbar a,ul,li:hover{
+    color: rgb(34, 24, 24);
+}
+
